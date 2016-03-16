@@ -1,0 +1,13 @@
+Bugs
+
+Things being worked on:
+
+* When you hit a wall and jump immediately, you slide up wall infinitely. Why? - Don
+* Player movement should snap character to orientation, similar to wall hang but
+with smoother transition. - Don
+
+Quick note, if you have a better idea for bug reports, formatting, etc., feel free
+to make that change. I would just ask that you let everybody know first. If this 
+file is unused for more than a week and is useless, just delete it.
+
+Test
